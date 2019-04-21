@@ -1,0 +1,109 @@
+#ul {
+    list-style-type: none;
+    white-space: pre-line;
+    padding-left: 1px; 
+}
+body {
+    background-color: #92bde7; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 5.5cm;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+#ada {
+    color: azure ; 
+}
+h1 {
+    display: inline;
+}
+#rest {
+    color: #485e74 ;
+}
+img {
+    height: 214.400px;
+} 
+#aboutCompany {
+    padding: 32px;
+    height: 563.800px;
+    width: 290.925px;
+    background-color: #c9e6ff;
+    display: inline-block;
+
+}
+#title {
+    display: block;
+    height: 51.200px;
+    width: 1064.800px;
+    margin: 21px;
+    padding-left: 5.5;
+}
+.container {
+    padding: 16px;
+
+}
+
+#contact{
+   background-color: #f9feff;
+   height: 536.8px;
+   width: 654.862px;
+   padding: 45px;
+}
+
+.both {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 1100px;
+
+}
+h3 {
+    height: 29.600px;
+    width: 645.862px;
+    color: #485e74;
+}
+input {
+    border: 1px solid #c9e6ff;
+    padding: 13.333px;
+}
+.inp1 {
+    height: 16px;
+    width: 300px;
+}
+#bouton{
+    border: 0;
+    height: 45px;
+    width:100%;
+    text-align: center; 
+    background-color: #c9e6ff;
+    margin-top: 25px;
+    transition: 0.3s;
+}
+#feedback{
+    font-weight: bold;
+    font-size: 18px;
+}
+#ul{
+    color: #485e74;
+}
+.text{
+    color: #485e74;
+}
+#message{
+    width: 626px;
+    height: 70px;
+}
+#nom, #list{
+    display: inline-block;
+}
+#list{
+    padding: 15px;
+}
+#bouton:hover{
+    background-color: #92bde7;
+    color: white;
+}
+.feed{
+    color: #485e74;
+}
+
+
